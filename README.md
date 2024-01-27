@@ -1,6 +1,6 @@
-![Screenshot 1](https://github.com/mmiimran/mmiimran/blob/main/git_cover2.png)
+![Github Banner]](https://github.com/mmiimran/mmiimran/blob/main/git_cover2.png)
 
-# Project Title
+# Hi! I'm Md Mohaiminul Islam Imran
 
 Brief description of your project.
 
@@ -39,3 +39,5 @@ Provide step-by-step instructions on how to install your project. You can includ
 ```bash
 # Example installation command
 npm install
+# Example installation command
+npm imran
