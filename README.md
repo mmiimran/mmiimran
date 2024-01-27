@@ -1,4 +1,4 @@
-![Github Banner]](https://github.com/mmiimran/mmiimran/blob/main/git_cover2.png)
+![Github Banner](https://github.com/mmiimran/mmiimran/blob/main/git_cover2.png)
 
 # Hi! I'm Md Mohaiminul Islam Imran
 
