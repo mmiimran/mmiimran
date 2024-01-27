@@ -38,5 +38,5 @@ Provide step-by-step instructions on how to install your project. You can includ
 
 ```bash
 
-# Example installation command
+
 npm imran
