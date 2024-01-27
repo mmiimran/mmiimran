@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/mmiimran/mmiimran/blob/main/git_cover2.png)
 
-# Hi! I'm Md Mohaiminul Islam Imran
+# <img src="helllo.gif" width="65px" alt="hi"> I'm Md Mohaiminul Islam Imran
 
 Brief description of your project.
 
