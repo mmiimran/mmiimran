@@ -37,7 +37,6 @@ List any software, tools, or dependencies users need to have installed before th
 Provide step-by-step instructions on how to install your project. You can include code snippets if necessary.
 
 ```bash
-# Example installation command
-npm install
+
 # Example installation command
 npm imran
