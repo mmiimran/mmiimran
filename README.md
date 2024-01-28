@@ -24,7 +24,7 @@ I am enthusiastic and passionate about full-stack web development and data scien
 
 ### Tutorials (coming soon!)
 
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) (https://www.youtube.com/watch?v=qeQ5sv1UY2k&list=PLXQxxBCFogIoUdyr3Xf9rL1rG5fEq2QMu&index=1&t=2s)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](https://www.youtube.com/watch?v=qeQ5sv1UY2k&list=PLXQxxBCFogIoUdyr3Xf9rL1rG5fEq2QMu&index=1&t=2s)
 [![Data Science Badge](https://img.shields.io/badge/-Data_Science-336791?style=for-the-badge&labelColor=black)](#)
 [![Data Analysis Badge](https://img.shields.io/badge/-Data_Analysis-1F425F?style=for-the-badge&labelColor=black)](#)
 [![Machine Learning Badge](https://img.shields.io/badge/-Machine_Learning-FF4500?style=for-the-badge&labelColor=black)](#)
