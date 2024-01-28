@@ -78,7 +78,9 @@ I am enthusiastic and passionate about full-stack web development and data scien
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mmiimran)
+![Profile Views](https://komarev.com/ghpvc/?username=mmiimran&color=blue)
+
+
 
 <details>
 <summary>
