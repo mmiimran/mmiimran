@@ -84,16 +84,16 @@ I am enthusiastic and passionate about full-stack web development and data scien
 
 <details>
 <summary>
-  You wanna know more about me?
+  Do you want to know more about me?
 </summary>
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn with Sumit Youtube Channel exists!
+I love sharing knowledge by creating tutorials, courses, and posts to assist other developers, and that's why the Code2Learn YouTube Channel exists! I am passionate about both learning and sharing, as it enhances my experience.
 
-#### What is Learn with Sumit?
+#### What is Learned with IMRAN?
 
-"Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
+"Code2Learn" is committed to imparting web development skills and techniques efficiently and practically. The platform equips individuals with the essential tools to learn the latest technologies, guiding them from novices to proficient full-stack developers. I founded "Code2Learn" with the goal of sharing my passion for web development and engaging in what I truly love—educating and inspiring new web developers. Prior to embarking on any project, I emphasize prioritizing the philosophy and engineering aspects of my work. In addition to web development, I also delve into the realms of data science, machine learning, deep learning, and data analysis to further enrich my knowledge and skills.
 
 #### Github Stats
 
