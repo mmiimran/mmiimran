@@ -30,7 +30,7 @@ I am enthusiastic and passionate about full-stack web development and data scien
 [![Machine Learning Badge](https://img.shields.io/badge/-Machine_Learning-FF4500?style=for-the-badge&labelColor=black)](#)
 [![Deep Learning Badge](https://img.shields.io/badge/-Deep_Learning-FF6347?style=for-the-badge&labelColor=black)](#)
 [![Statistics Badge](https://img.shields.io/badge/-Statistics-2E8B57?style=for-the-badge&labelColor=black)](#)
-[![Mathematics Badge](https://img.shields.io/badge/-Mathematics-8B008B?style=for-the-badge&labelColor=black)](#)<br>
+[![Mathematics Badge](https://img.shields.io/badge/-Mathematics-8B008B?style=for-the-badge&labelColor=black)](#)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 [![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=38B2AC)](#)
