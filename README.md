@@ -64,11 +64,8 @@ I am enthusiastic and passionate about full-stack web development and data scien
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [React Developer Roadmap 2024 - Beginner to Advanced](https://www.youtube.com/watch?v=GHriWlXHiwE)
-- [Programming for Beginners - Why You are Struggling To Learn To Code?](https://www.youtube.com/watch?v=wRMSNJUCR2k)
-- [Patience is the key - Career advice for Programmers #learnwithsumit #shorts](https://www.youtube.com/watch?v=hHzz1Hdyh70)
-- [5 tips to become a Senior Web Developer - Are you a senior Software Engineer?](https://www.youtube.com/watch?v=QSzL_N5Ffeg)
-- [Next JS 14 Crash Course - Next.js Bangla Tutorial 2024](https://www.youtube.com/watch?v=NgrljB7UU34)
+- [Python for Begineer](https://www.youtube.com/watch?v=qeQ5sv1UY2k&list=PLXQxxBCFogIoUdyr3Xf9rL1rG5fEq2QMu)
+
 <!-- YOUTUBE:END -->
 
 #### Business
