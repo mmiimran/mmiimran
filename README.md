@@ -8,9 +8,9 @@ Full Stack Web Application Developer from <img src="bangladesh.png" width="18"/>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61554897388726) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@code_2_learn6666) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mohaiminul-islam-imran-014299117/)  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imran_bin_MD) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:go2imran6@gmail.com)
 
-:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
+:hearts: &emsp;I enjoy programming and learning different things and i love to share my knowledge <br/>
+:computer: &emsp;Most used line of code `print(f"Print the variable {x}")` <br/>
+🤔 &emsp;I love to communicate with these people who how are really love to learn different things everyday with consistency<br/>
 :e-mail: &emsp;How to reach me: go2imran6@gmail.com<br/>
 ⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
 
@@ -83,15 +83,12 @@ Full Stack Web Application Developer from <img src="bangladesh.png" width="18"/>
 
 #### Business
 
-:email: &emsp;sayhitorainmaker@gmail.com
+:email: &emsp;emukhan568@gmail.com
 <br >
-:email: &emsp;sumit@learnwithsumit.com
-<br >
-:email: &emsp;sumit@analyzenbd.com
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=learnwithsumit.learnwithsumit)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mmiimran)
 
 <details>
 <summary>
@@ -111,39 +108,3 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 ![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=mmiimran&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
-## Introduction
-
-Provide a brief overview of your project. Explain its purpose and what problem it solves.
-
-## Features
-
-List the key features of your project.
-
-## Getting Started
-
-Guide users through setting up and running your project on their local machine.
-
-### Prerequisites
-
-List any software, tools, or dependencies users need to have installed before they can use your project.
-
-### Installation
-
-Provide step-by-step instructions on how to install your project. You can include code snippets if necessary.
-
-```bash
-
-
-npm imran
