@@ -41,7 +41,7 @@ I am enthusiastic and passionate about full-stack web development and data scien
 [![RESTful API Badge](https://img.shields.io/badge/-RESTful_API-6DB33F?style=for-the-badge&labelColor=black)](#)
 [![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&labelColor=black&logo=fastapi&logoColor=009688)](#)
 
-### My Projects & Ventures
+### My Projects & Works
 
 <table>
   <thead align="center">
@@ -53,40 +53,11 @@ I am enthusiastic and passionate about full-stack web development and data scien
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://learnwithsumit.com" target="_blank">Learn with Sumit</a></td>
-      <td>Programming related Learning Platform for Bangladesh</td>
-      <td>200K+ active learners</td>
+      <td><a href="https://github.com/emumia/Heart-Disease-Checker" target="_blank">Heart-Prediction</a></td>
+      <td>This is a machine learning predictive project </td>
+      <td>We can check our heart Health</td>
     </tr>
-    <tr>
-      <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
-      <td>Visual Studio Code Editor Theme</td>
-      <td>84K+ installs</td>
-    </tr>
-    <tr>
-      <td>Listenyzen</td>
-      <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>
-      <td>65+ clients</td>
-    </tr>
-    <tr>
-      <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>
-      <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
-      <td>120+ clients</td>
-    </tr>
-    <tr>
-      <td>Prism</td>
-      <td>Complete Sales Automation & ERP Enterprise Solution for British American Tobacco Bangladesh</td>
-      <td>2.5k+ Distributors Nationwide</td>
-    </tr>
-    <tr>
-      <td>Unilever MARS</td>
-      <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>
-      <td>20 million+ Consumer Data Managed Already</td>
-    </tr>
-    <tr>
-      <td>Microzen</td>
-      <td>Microcredit Automation System with AI based Decision Support System</td>
-      <td>10 million+ Consumer Financial Data Managed Already</td>
-    </tr>
+   
   </tbody>
 </table>
 
