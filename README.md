@@ -22,9 +22,24 @@ I am enthusiastic and passionate about full-stack web development and data scien
 
 
 
-### Tutorials (comming soon!)
+### Tutorials (coming soon!)
 
-[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://lwsbd.link/ts) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/startjs) [![Tailwind Playlist](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](https://lwsbd.link/tp)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)([https://lwsbd.link/react](https://www.youtube.com/watch?v=qeQ5sv1UY2k&list=PLXQxxBCFogIoUdyr3Xf9rL1rG5fEq2QMu&index=1&t=2s))
+[![Data Science Badge](https://img.shields.io/badge/-Data_Science-336791?style=for-the-badge&labelColor=black)](#)
+[![Data Analysis Badge](https://img.shields.io/badge/-Data_Analysis-1F425F?style=for-the-badge&labelColor=black)](#)
+[![Machine Learning Badge](https://img.shields.io/badge/-Machine_Learning-FF4500?style=for-the-badge&labelColor=black)](#)
+[![Deep Learning Badge](https://img.shields.io/badge/-Deep_Learning-FF6347?style=for-the-badge&labelColor=black)](#)
+[![Statistics Badge](https://img.shields.io/badge/-Statistics-2E8B57?style=for-the-badge&labelColor=black)](#)
+[![Mathematics Badge](https://img.shields.io/badge/-Mathematics-8B008B?style=for-the-badge&labelColor=black)](#)<br>
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
+[![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=38B2AC)](#)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
+[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)
+[![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=sql&logoColor=4479A1)](#)
+[![RESTful API Badge](https://img.shields.io/badge/-RESTful_API-6DB33F?style=for-the-badge&labelColor=black)](#)
+[![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&labelColor=black&logo=fastapi&logoColor=009688)](#)
 
 ### My Projects & Ventures
 
