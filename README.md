@@ -53,7 +53,7 @@ I am enthusiastic and passionate about full-stack web development and data scien
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/emumia/Heart-Disease-Checker" target="_blank">Heart-Prediction</a></td>
+      <td><a href="https://github.com/emumia/Heart-Disease-Checker" target="_blank">Heart--Disease-Prediction</a></td>
       <td>This is a machine learning predictive project </td>
       <td>We can check our heart Health</td>
     </tr>
