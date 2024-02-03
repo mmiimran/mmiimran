@@ -71,7 +71,7 @@ I am enthusiastic and passionate about full-stack web development and data scien
 
 <!-- YOUTUBE:END -->
 
-#### Business
+#### For Inquiry
 
 :email: &emsp;emukhan568@gmail.com
 <br >
