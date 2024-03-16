@@ -11,7 +11,7 @@ I am enthusiastic and passionate about full-stack web development and data scien
 :hearts: &emsp; I find joy in programming and exploring various topics. I also love sharing my knowledge with others.<br/>
 :computer: &emsp;Most used line of code `print(f"Print the variable {x}")` <br/>
 🤔 &emsp; I love to communicate with people who are truly passionate about learning different things every day with consistency<br/>
-:e-mail: &emsp;How to reach me: go2mmii@gmail.com<br/>
+:e-mail: &emsp;How to reach me: go2imran6@gmail.com<br/>
 ⚡ &emsp; Fun fact: I learn different things every day, and sometimes I may forget some of my work as well. However, I can solve problems that I have addressed previously because I document my work on GitHub.<hr>
 
 #### Things I code with
